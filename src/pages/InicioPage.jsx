@@ -1,5 +1,5 @@
 import React from 'react'
-import Styles from '../styles/estilos.css'
+import Styles from '../Styles/estilos.css'
 
 
 function InicioPage() {
