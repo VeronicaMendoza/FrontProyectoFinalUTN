@@ -1,17 +1,16 @@
-<h1 align = "center">Hospital Santa Lucía</h1>
-<p align = "center">Sistema de turnos </p>
+<h1 align = "center">Horneando Deseos</h1>
+<p align = "center">Sistema para subir productos </p>
 <p align = "center">Proyecto Final Diplomatura Web Full Stack UTN</p>
 
 <h2>Descripción del proyecto</h2>
-Este proyecto es un sistema de turnos destinado a servicios de la salud en el cual el usuario puede agregar, modificar, eliminarlo y confirmar su turno luego de cargar su nombre, teléfono y una breve descripción.
-
+Es un proyecto realizado para una empresa familiar que se encarga de la elaboración y distribución de productos de pastelería donde se pueden cargar, modificar y eliminar productos.
 # Tecnologías :
 * FrontEnd: ReactJS | JSX | Tailwind CSS |
-* BackEnd: Javascript | Node.js | Express.js | MySQL |
+* BackEnd:  Node.js | Express.js | MySQL |
 
 # Realizado por: 
 
-* Matías Laudonio : [Email](laudoniomatias@gmail.com) | [GitHub](https://github.com/Mlg01)
+* Verónica Mendoza 
 
 ### Link al proyecto Deployado 🔗:
-* https://aesthetic-vacherin-41d63e.netlify.app
+* https://charming-bunny-601a0b.netlify.app/
